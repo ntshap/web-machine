@@ -2,8 +2,6 @@
 
 A nostalgic Windows 95/98-style desktop simulator built with modern web technologies. Experience the charm of vintage computing with a fully interactive desktop environment, complete with draggable windows, a taskbar, file explorer, and classic applications.
 
-![Vintage Web Machine Screenshot](https://via.placeholder.com/800x600/008080/FFFFFF?text=Vintage+Desktop+Simulator)
-
 ## ✨ Features
 
 ### 🎮 Interactive Desktop Experience
